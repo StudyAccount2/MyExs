@@ -1,0 +1,29 @@
+.prd{
+    border: 1px solid black;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.prd img{
+    width: 200px;
+    height: 200px;
+}
+.prd h4{
+    color: blue;
+}
+.prd p{
+    font-weight: bold;
+    color: green;
+}
+.prd button{
+    background-color: rgb(255, 255, 255);
+    color: #1b1616;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}

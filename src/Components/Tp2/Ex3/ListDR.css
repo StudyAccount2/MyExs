@@ -1,0 +1,13 @@
+.list select {
+    margin-left: 10px;
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+.list {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.list span {
+    margin-left:10px;
+    
+}
