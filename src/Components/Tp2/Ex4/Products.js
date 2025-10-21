@@ -2,7 +2,6 @@ import React from 'react'
 import Product from './Product'
 import products from './Data'
 import './Products.css'
-import './assets/HP16D0195NF.jpg'
 
 const Products = () => {
   return (
